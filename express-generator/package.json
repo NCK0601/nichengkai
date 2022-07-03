@@ -1,0 +1,25 @@
+{
+  "name": "@nichenkai/express-generator",
+  "version": "0.0.1",
+  "description": "Ts-Express's application generator.",
+  "main": "./bin/express_cli.js",
+  "bin": {
+    "ts-express": "./bin/express_cli.js",
+    "nichengkai-ts-express-build": "./bin/express_build.js"
+  },
+  "keywords": [
+    "typescript",
+    "cli",
+    "express"
+  ],
+  "author": "NiChengKai",
+  "license": "ISC",
+  "dependencies": {
+    "colors-console": "^1.0.3",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.5.2",
+    "log-symbols": "4.1.0",
+    "open": "^8.4.0",
+    "ora": "4.1.1"
+  }
+}

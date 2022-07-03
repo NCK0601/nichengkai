@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"target": "es2016",
+		"experimentalDecorators": true,
+		"module": "commonjs",
+		"rootDir": "./resources",
+		"allowJs": true,
+		"outDir": "./typescript",
+		"removeComments": true,
+		"inlineSourceMap": true,
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+		"strict": true,
+		"skipLibCheck": true
+	}
+}
